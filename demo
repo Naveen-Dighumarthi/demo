@@ -1,1 +1,8 @@
 hi all the this is from naveen
+
+git commands
+1.git init
+2. git add .
+3.git commit -m 'intial commit'
+4.git remote add origin htpps://github
+5.git push -u origin -all
